@@ -137,7 +137,7 @@ Feel free to fork this repository, make changes, and submit a pull request.
 
 ## 👨‍💻 Author
 
-Alvin A S (). 
+Alvin A S (https://github.com/Alvin0305). 
 
 --- 
 >>>>>>> c5c80c3 (medical app)
